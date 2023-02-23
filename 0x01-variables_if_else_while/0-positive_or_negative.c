@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
 /**
  *main - Entry point
  *description:'check for number if it is positive or negative'
