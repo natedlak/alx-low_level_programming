@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
- *_isupper - checks for uppercase characters
+ *_isdigit - checks for a digit
  *@c: character to be checked
  *
  *Return: 1 if @c is 0
  *Otherwise, we return 0
  */
-int _isupper(int c)
+int _isdigit(int c)
 {
 	int start = 48, end = 57;
 
